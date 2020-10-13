@@ -1,8 +1,8 @@
 {
-  "PREFIX": "x!", 
-  "TOKEN": "TOKEN", 
-  "YOUTUBE_API_KEY": "YT API",
+  "PREFIX": ":", 
+  "TOKEN": "NzYyNjA3MDQ2MjIxNjI3NDAz.X3rnKA.BA-iA5EOvSkXAtbNK098VPjRyX4", 
+  "YOUTUBE_API_KEY": "AIzaSyBAPpUUxT7fnIxS9t6Vd-LYKhOksqCArQk",
   "QUEUE_LIMIT": 0,
-  "COLOR": "BLUE",
-  "inviteURL": "BOT INVITE URL" 
+  "COLOR": "PURPLE",
+  "inviteURL": "https://discord.com/api/oauth2/authorize?client_id=762607046221627403&permissions=8&scope=bot" 
 }
